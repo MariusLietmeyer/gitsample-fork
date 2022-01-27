@@ -1,4 +1,5 @@
 /*******************************************************************************
+
  * Copyright (C) 2010, Matthias Sohn <matthias.sohn@sap.com>
  * Copyright (C) 2010, Stefan Lay <stefan.lay@sap.com>
  *
@@ -7,6 +8,7 @@
  * which accompanies this distribution, and is available at
  * http://www.eclipse.org/legal/epl-v10.html
  *******************************************************************************/
+// Sarahs GutHub Kommentar
 package org.eclipse.example.calc.internal;
 
 import org.eclipse.example.calc.BinaryOperation;
@@ -18,6 +20,8 @@ import org.eclipse.example.calc.internal.operations.Minus;
 import org.eclipse.example.calc.internal.operations.Plus;
 import org.eclipse.example.calc.internal.operations.Square;
 
+//Sarahs Kommentar
+//neuer Kommentar "Do another change directly in the master branch and use the Commit and Push button."
 public class Calculator {
 
 	private TextProvider textProvider;
